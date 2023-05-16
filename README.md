@@ -1,0 +1,3 @@
+Investigating the function key toggle on my asus laptop.
+
+More to come...
